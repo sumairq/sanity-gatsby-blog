@@ -1,5 +1,6 @@
 .componentWrapper p {
   padding: 1em;
+  border: 5px solid red;
 }
 
 .iframeContainer iframe {
